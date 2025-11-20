@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mergecube1" size="1.000000 0.994888" />
+    <ImageTarget name="mergecube" size="100.000000 99.641579" />
+    <ImageTarget name="imagen_objetos2" size="0.100000 0.075000" />
+    <ImageTarget name="imagen_objetos1" size="0.100000 0.133333" />
+    <ImageTarget name="tarjetaprofesional" size="0.100000 0.055597" />
+    <ImageTarget name="tiburao2" size="0.100000 0.100000" />
+    <ImageTarget name="pug" size="0.100000 0.075000" />
+    <ImageTarget name="tiburao" size="0.100000 0.100000" />
+    <ImageTarget name="messi" size="0.100000 0.066167" />
+  </Tracking>
+</QCARConfig>

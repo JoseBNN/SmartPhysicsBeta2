@@ -1,0 +1,3 @@
+¿Qué magnitud permanece constante en el MRU? | Velocidad | Aceleración | Fuerza | Energía | 0
+En el MRU, ¿qué relación cumple la distancia con el tiempo? | Es directamente proporcional | Es inversamente proporcional | No tiene relación | Depende de la masa | 0
+Si un cuerpo recorre 20 m en 5 s, su velocidad es: | 4 m/s | 10 m/s | 25 m/s | 100 m/s | 0

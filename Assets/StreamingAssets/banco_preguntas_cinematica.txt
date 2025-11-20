@@ -1,0 +1,7 @@
+¿Qué magnitud cambia cuando hay aceleración? | Velocidad | Masa | Tiempo | Longitud | 0
+¿Cuál es la unidad de velocidad en el SI? | m/s | km/h | N | s | 0
+Si lanzas un objeto hacia arriba, ¿qué ocurre con su velocidad en el punto más alto? | Es cero | Es máxima | Es infinita | Cambia de signo | 0
+¿Qué tipo de movimiento ocurre cuando la aceleración es cero? | MRU | MRUV | Caída libre | Circular | 0
+La aceleración de la gravedad cerca de la Tierra es… | 9.8 m/s² | 5 m/s² | 20 m/s² | 0 m/s² | 0
+El área bajo la curva velocidad-tiempo indica… | Desplazamiento | Tiempo | Energía | Potencia | 0
+En un lanzamiento horizontal, la velocidad vertical inicial es… | 0 m/s | Igual a la horizontal | Máxima | Variable | 0
